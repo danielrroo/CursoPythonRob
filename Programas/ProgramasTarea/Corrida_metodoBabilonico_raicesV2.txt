@@ -1,0 +1,24 @@
+
+============== RESTART: C:\Users\Dougal\Downloads\metodoBabilonico_raices.py =============
+Dame el valor del cual quieres la raíz: 7
+Da una aproximación: 2
+La raíz aproximada de 7.0 es 2.645751311064590716171096573816612362861633300781
+La raíz de 7.0 es 2.645751311064590716171096573816612362861633300781 
+
+============== RESTART: C:\Users\Dougal\Downloads\metodoBabilonico_raices.py =============
+Dame el valor del cual quieres la raíz: 2
+Da una aproximación: 1
+La raíz aproximada de 2.0 es 1.414213562373094923430016933707520365715026855469
+La raíz de 2.0 es 1.414213562373095145474621858738828450441360473633 
+
+============== RESTART: C:\Users\Dougal\Downloads\metodoBabilonico_raices.py =============
+Dame el valor del cual quieres la raíz: 2
+Da una aproximación: 1.4
+La raíz aproximada de 2.0 es 1.414213562373094923430016933707520365715026855469
+La raíz de 2.0 es 1.414213562373095145474621858738828450441360473633 
+
+============== RESTART: C:\Users\Dougal\Downloads\metodoBabilonico_raices.py =============
+Dame el valor del cual quieres la raíz: 11
+Da una aproximación: 3
+La raíz aproximada de 11.0 es 3.316624790355399809982372971717268228530883789062
+La raíz de 11.0 es 3.316624790355399809982372971717268228530883789062 
